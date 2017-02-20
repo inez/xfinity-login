@@ -1,0 +1,17 @@
+{
+  "name": "spoof_new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "spoof"      : "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
